@@ -1,2 +1,6 @@
-# theme
-theme that have been used on tafasu
+# v1
+| ข้อมูล          | คำอธิบาย       |
+| ------------- | ------------- |
+| ชื่อ            | v1           |
+| ระยะเวลา       | มกราคม 2560 - ปัจจุบัน
+| ดู | https://tafasu.github.io/theme/v1 |
